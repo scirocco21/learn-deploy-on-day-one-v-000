@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sebastian-gertz-cover {
+  background-image: url("http://imgur.com/BUbUCJy.jpg");
+}
+
+#sebastian-gertz-card {
+  background-image: url("http://imgur.com/hBVqvX8.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
